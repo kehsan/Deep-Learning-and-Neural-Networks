@@ -9,7 +9,7 @@ Deep-Learning-and-Neural-Networks by Andrew Ng
 
 <li><a href="/kehsan/Deep-Learning-and-Neural-Networks/blob/master"> Week 3 - PA 2 - Planar data classification with one hidden layer </a></li>
 
-<li><a href="/kehsan/Deep-Learning-and-Neural-Networks/blob/master"> Week 4 - PA 3 - Building your Deep Neural Network: Step by Step </a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step.ipynb"> Week 4 - PA 3 - Building your Deep Neural Network: Step by Step </a></li>
 
 <li><a href="/kehsan/Deep-Learning-and-Neural-Networks/blob/master"> Week 4 - PA 4 - Deep Neural Network for Image Classification: Application </a></li>
 
