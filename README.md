@@ -35,9 +35,9 @@
 
 <p>Course 1: Neural Networks and Deep Learning</p>
 <ul>
-<li><a href="">Week 1 Quiz - Introduction to deep learning</a></li>
-<li><a href="">Week 2 Quiz - Neural Network Basics</a></li>
-<li><a href="">Week 3 Quiz - Shallow Neural Networks</a></li>
-<li><a href="">Week 4 Quiz - Key concepts on Deep Neural Networks</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%201%20Quiz%20-%20Introduction%20to%20deep%20learning.md.txt">Week 1 Quiz - Introduction to deep learning</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%202%20Quiz%20-%20Neural%20Network%20Basics.md.txt">Week 2 Quiz - Neural Network Basics</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%203%20Quiz%20-%20Shallow%20Neural%20Networks.md.txt">Week 3 Quiz - Shallow Neural Networks</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204%20Quiz%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.md.txt">Week 4 Quiz - Key concepts on Deep Neural Networks</a></li>
 </ul>
 </li>
