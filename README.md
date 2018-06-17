@@ -23,11 +23,11 @@
 
 <p>Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</p>
 <ul>
-<li><a href="">Week 1 - PA 1 - Initialization</a></li>
-<li><a href="">Week 1 - PA 2 - Regularization</a></li>
-<li><a href="">Week 1 - PA 3 - Gradient Checking</a></li>
-<li><a href="">Week 2 - PA 4 - Optimization Methods</a></li>
-<li><a href="">Week 3 - PA 5 - TensorFlow Tutorial</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb">Week 1 - PA 1 - Initialization</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Regularization%2B-%2Bv2.ipynb">Week 1 - PA 2 - Regularization</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Gradient%2BChecking%2Bv1%20.ipynb">Week 1 - PA 3 - Gradient Checking</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Optimization%2Bmethods.ipynb">Week 2 - PA 4 - Optimization Methods</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Tensorflow%2BTutorial.ipynb">Week 3 - PA 5 - TensorFlow Tutorial</a></li>
 </ul>
 </li>
 
