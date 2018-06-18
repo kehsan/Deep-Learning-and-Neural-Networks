@@ -44,7 +44,7 @@
 
 <p>Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</p>
 
-  - [Week 1 Quiz - Practical aspects of deep learning]()
+  - [Week 1 Quiz - Practical aspects of deep learning](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Course2-Week1-quiz.pdf)
   - [Week 2 Quiz - Optimization algorithms]()
   - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks]()
   
