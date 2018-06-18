@@ -41,3 +41,10 @@
 <li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Neural%20Networks%20and%20Deep%20Learning/Week%204%20Quiz%20-%20Key%20concepts%20on%20Deep%20Neural%20Networks.md.txt">Week 4 Quiz - Key concepts on Deep Neural Networks</a></li>
 </ul>
 </li>
+
+<p>Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization</p>
+
+  - [Week 1 Quiz - Practical aspects of deep learning]()
+  - [Week 2 Quiz - Optimization algorithms]()
+  - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks]()
+  
