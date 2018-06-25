@@ -55,7 +55,7 @@
 
 <p>Course 3: Structuring Machine Learning Projects</p>
 <ul>
-<li><a href="">Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)</a></li>
+<li><a href="https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Structuring%20Machine%20Learning%20Projects/course3%20week1%20quiz.pdf">Week 1 Quiz - Bird recognition in the city of Peacetopia (case study)</a></li>
 <li><a href="">Week 2 Quiz - Autonomous driving (case study)</a></li>
 </ul>
 </li>
