@@ -5,7 +5,7 @@
 
 **Master Deep Learning, and Break into AI**
 
-Instructor: [Andrew Ng et. al.](http://www.andrewng.org/)
+Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
 
 ## Programming Assignments
   
@@ -43,6 +43,15 @@ Instructor: [Andrew Ng et. al.](http://www.andrewng.org/)
   
   - [Week 1 - PA 2 - Convolutional Model: application]()
   
+  - [Week 2 - PA 0 - Keras Tutorial - The Happy House (not graded)]()
+  
+  - [Week 2 - PA 1 - Residual Networks]()
+  
+  - [Week 3 - PA 1 - Car detection with YOLOv2]()
+  
+  - [Week 4 - PA 1 - Art generation with Neural Style Transfer]()
+  
+  - [Week 4 - PA 2 - Face Recognition for the Happy House]()
 
 ## Quiz Solutions
 
@@ -63,11 +72,22 @@ Instructor: [Andrew Ng et. al.](http://www.andrewng.org/)
   - [Week 2 Quiz - Optimization algorithms](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/course2%20week2%20quiz.pdf)
   
   - [Week 3 Quiz - Hyperparameter tuning, Batch Normalization, Programming Frameworks](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/course2%20week3%20quiz.pdf)
+  
 - Course 3: Structuring Machine Learning Projects
 
   - [Week 1 Quiz - Bird recognition in the city of Peacetopia ](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Structuring%20Machine%20Learning%20Projects/course3%20week1%20quiz.pdf)
   
   - [Week 2 Quiz - Autonomous driving (case study)](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Structuring%20Machine%20Learning%20Projects/course3%20week2%20quiz.pdf)
   
+
+- Course 4: Convolutional Neural Networks
+
+  - [Week 1 Quiz - The basics of ConvNets ]()
+  
+  - [Week 2 Quiz - Deep convolutional models]()
+  
+  - [Week 3 Quiz - Detection algorithms]()
+  
+  - [Week 4 Quiz - Special applications: Face recognition & Neural style transfer ]()
 
   
