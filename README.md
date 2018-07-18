@@ -43,11 +43,11 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   
   - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%201/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   
-  - [Week 2 - PA 0 - Keras Tutorial - The Happy House (not graded)]()
+  - [Week 2 - PA 0 - Keras Tutorial - The Happy House (not graded)](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%202/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
   
-  - [Week 2 - PA 1 - Residual Networks]()
+  - [Week 2 - PA 1 - Residual Networks](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%202/Residual%2BNetworks%2B-%2Bv2.ipynb)
   
-  - [Week 3 - PA 1 - Car detection with YOLOv2]()
+  - [Week 3 - PA 1 - Car detection with YOLOv2](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%203/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
   
   - [Week 4 - PA 1 - Art generation with Neural Style Transfer]()
   
@@ -82,11 +82,11 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
 
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 Quiz - The basics of ConvNets ]()
+  - [Week 1 Quiz - The basics of ConvNets ](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%201/course4%20week1%20quiz.pdf)
   
-  - [Week 2 Quiz - Deep convolutional models]()
+  - [Week 2 Quiz - Deep convolutional models](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%202/course4%20week2%20qui.pdf)
   
-  - [Week 3 Quiz - Detection algorithms]()
+  - [Week 3 Quiz - Detection algorithms](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%203/Convolutional%20Neural%20Networks%20-%20Home%20_%20Coursera.pdf)
   
   - [Week 4 Quiz - Special applications: Face recognition & Neural style transfer ]()
 
