@@ -39,9 +39,9 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
 
 - Course 4: Convolutional Neural Networks
 
-  - [Week 1 - PA 1 - Convolutional Model: step by step]()
+  - [Week 1 - PA 1 - Convolutional Model: step by step](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%201/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2%20.ipynb)
   
-  - [Week 1 - PA 2 - Convolutional Model: application]()
+  - [Week 1 - PA 2 - Convolutional Model: application](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%201/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
   
   - [Week 2 - PA 0 - Keras Tutorial - The Happy House (not graded)]()
   
