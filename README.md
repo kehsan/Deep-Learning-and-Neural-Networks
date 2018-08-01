@@ -66,7 +66,7 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   
    - [week 3 - PA1 - Neural Machine Translation with Attention](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week3/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
    
-   - [week 3 - PA2 - Trigger word detection]()
+   - [week 3 - PA2 - Trigger word detection](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week3/Trigger%2Bword%2Bdetection%2B-%2Bv1.ipynb)
   
 
 ## Quiz Solutions
