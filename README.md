@@ -54,17 +54,17 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
  
  - Course 5: Sequence Models
  
-   - [week 1 - PA 1 - Building a recurrent neural network - step by step]()
+   - [week 1 - PA 1 - Building a recurrent neural network - step by step](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week1/Building%2Ba%2BRecurrent%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2B-%2Bv3.ipynb)
    
-   - [week 1 - PA 2 - Dinosaur Island - Character-Level Language Modeling]()
+   - [week 1 - PA 2 - Dinosaur Island - Character-Level Language Modeling](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week1/Dinosaurus%2BIsland%2B--%2BCharacter%2Blevel%2Blanguage%2Bmodel%2Bfinal%2B-%2Bv3.ipynb)
    
-   - [week 1 - PA 3 - Jazz improvisation with LSTM]()
+   - [week 1 - PA 3 - Jazz improvisation with LSTM](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week1/Improvise%2Ba%2BJazz%2BSolo%2Bwith%2Ban%2BLSTM%2BNetwork%2B-%2Bv3.ipynb)
   
-   - [week 2 - PA1 - Operations on word vectors - Debiasing]()
+   - [week 2 - PA1 - Operations on word vectors - Debiasing](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week2/Operations%2Bon%2Bword%2Bvectors%2B-%2Bv2.ipynb)
    
-   - [week 2 - PA2 - Emojify]()
+   - [week 2 - PA2 - Emojify](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week2/Emojify%2B-%2Bv2.ipynb)
   
-   - [week 3 - PA1 - Neural Machine Translation with Attention]()
+   - [week 3 - PA1 - Neural Machine Translation with Attention](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week3/Neural%2Bmachine%2Btranslation%2Bwith%2Battention%2B-%2Bv4.ipynb)
    
    - [week 3 - PA2 - Trigger word detection]()
   
@@ -108,9 +108,9 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
 
 - Course 5: Sequence Models
 
-  - [week 1 Quiz - Recurrent Neural Networks]()
+  - [week 1 Quiz - Recurrent Neural Networks](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week1/course5%20week1%20quiz.pdf)
   
-  - [week 2 Quiz - Natural Language Processing & Word Embeddings]()
+  - [week 2 Quiz - Natural Language Processing & Word Embeddings](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week2/course5%20week2%20quiz.pdf)
   
-  - [week 3 Quiz - Sequence models & Attention mechanism]()
+  - [week 3 Quiz - Sequence models & Attention mechanism](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Sequence%20Models/week3/course5%20week3%20quiz.pdf)
   
