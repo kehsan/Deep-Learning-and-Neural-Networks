@@ -20,7 +20,6 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   - [Week 4 - PA 4 - Deep Neural Network for Image Classification: Application](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Neural%20Networks%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)
 
 
-
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
   - [Week 1 - PA 1 - Initialization](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Improving%20Deep%20Neural%20Networks%20Hyperparameter%20tuning-%20Regularization%20and%20Optimization/Initialization.ipynb)
@@ -52,6 +51,23 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   - [Week 4 - PA 1 - Art generation with Neural Style Transfer]()
   
   - [Week 4 - PA 2 - Face Recognition for the Happy House]()
+ 
+ - Course 5: Sequence Models
+ 
+   - [week 1 - PA 1 - Building a recurrent neural network - step by step]()
+   
+   - [week 1 - PA 2 - Dinosaur Island - Character-Level Language Modeling]()
+   
+   - [week 1 - PA 3 - Jazz improvisation with LSTM]()
+  
+   - [week 2 - PA1 - Operations on word vectors - Debiasing]()
+   
+   - [week 2 - PA2 - Emojify]()
+  
+   - [week 3 - PA1 - Neural Machine Translation with Attention]()
+   
+   - [week 3 - PA2 - Trigger word detection]()
+  
 
 ## Quiz Solutions
 
@@ -90,4 +106,11 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   
   - [Week 4 Quiz - Special applications: Face recognition & Neural style transfer ]()
 
+- Course 5: Sequence Models
+
+  - [week 1 Quiz - Recurrent Neural Networks]()
+  
+  - [week 2 Quiz - Natural Language Processing & Word Embeddings]()
+  
+  - [week 3 Quiz - Sequence models & Attention mechanism]()
   
