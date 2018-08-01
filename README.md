@@ -48,9 +48,9 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   
   - [Week 3 - PA 1 - Car detection with YOLOv2](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%203/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
   
-  - [Week 4 - PA 1 - Art generation with Neural Style Transfer]()
+  - [Week 4 - PA 1 - Art generation with Neural Style Transfer](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%204/Art%2BGeneration%2Bwith%2BNeural%2BStyle%2BTransfer%2B-%2Bv2.ipynb)
   
-  - [Week 4 - PA 2 - Face Recognition for the Happy House]()
+  - [Week 4 - PA 2 - Face Recognition for the Happy House](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%204/Face%2BRecognition%2Bfor%2Bthe%2BHappy%2BHouse%2B-%2Bv3.ipynb)
  
  - Course 5: Sequence Models
  
@@ -104,7 +104,7 @@ Instructor: [Andrew Ng et al.](http://www.andrewng.org/)
   
   - [Week 3 Quiz - Detection algorithms](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%203/Convolutional%20Neural%20Networks%20-%20Home%20_%20Coursera.pdf)
   
-  - [Week 4 Quiz - Special applications: Face recognition & Neural style transfer ]()
+  - [Week 4 Quiz - Special applications: Face recognition & Neural style transfer ](https://github.com/kehsan/Deep-Learning-and-Neural-Networks/blob/master/Convolutional%20Neural%20Networks/week%204/course4%20week4%20quiz.pdf)
 
 - Course 5: Sequence Models
 
